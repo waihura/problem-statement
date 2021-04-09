@@ -22,5 +22,9 @@ Run composer install/update
 
 Create a .env file and setup application key and db details
 
+Run php artisan migrate --seed to create roles, permisions and manager account 
+
+>> Manager credentials: Username - manager@example.com  Password - password
+
 npm instal && npm run dev
 
