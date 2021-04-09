@@ -16,15 +16,17 @@ This will enable report generation based on branches;
     </ul> 
  
 # Installation
-Clone this repo.
+1. Clone this repo.
 
-Run composer install/update
+2. Run composer install/update.
 
-Create a .env file and setup application key and db details
+3. Create a .env file and setup application key and db details.
 
-Run php artisan migrate --seed to create roles, permisions and manager account 
+4. Run php artisan migrate --seed to create roles, permisions and manager account.
 
 >> Manager credentials: Username - manager@example.com  Password - password
 
-npm instal && npm run dev
+5. npm instal && npm run dev.
+
+6. php artisan serve.
 
