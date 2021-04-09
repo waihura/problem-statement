@@ -16,7 +16,10 @@ This will enable report generation based on branches;
  
 # Installation
 Clone this repo.
+
 Run composer install/update
+
 Create a .env file and setup application key and db details
+
 npm instal $$ npm run dev
- 
+
