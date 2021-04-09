@@ -21,5 +21,5 @@ Run composer install/update
 
 Create a .env file and setup application key and db details
 
-npm instal $$ npm run dev
+npm instal && npm run dev
 
