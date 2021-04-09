@@ -7,8 +7,10 @@ A branch manager would have access to all leads and products under his/her branc
 So branch managers and sales agent will have access to data in their respective branches based on the access rights given.
 
 This will enable report generation based on branches; 
-    -report showing leads under each branch
-    -sales agents reports showing their performance
-    -lead status under each branch
-    -actual sales 
+    <ul>
+        <li>report showing leads under each branch</li>
+        <li>sales agents reports showing their performance</li>
+        <li>lead status under each branch</li>
+        <li>actual sales</li>
+    </ul> 
  
