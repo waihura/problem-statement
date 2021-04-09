@@ -1,4 +1,5 @@
 # problem statement
+Based on my understanding of the problem statement, i'd model the solution as follows:
 
 Different users of the system would have access rights assigned to them via roles, in such that a sales agent from a specific branch would be able to view only his/her lead inputs under the current branch that they are working under.
 
