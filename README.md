@@ -24,7 +24,7 @@ This will enable report generation based on branches;
 
 4. Run php artisan migrate --seed to create roles, permisions and manager account.
 
-    >> Manager credentials: Username - manager@example.com  Password - password
+    >> Manager credentials: Username: manager@example.com  and Password: password
 
 5. npm instal && npm run dev.
 
