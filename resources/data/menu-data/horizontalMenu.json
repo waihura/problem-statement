@@ -1,0 +1,34 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "home",
+      "slug": "home"
+    },
+    {
+      "url": "branches",
+      "name": "Branches",
+      "icon": "git-branch",
+      "slug": "branches"
+    },
+    {
+      "url": "leads",
+      "name": "Leads",
+      "icon": "activity",
+      "slug": "leads"
+    },
+    {
+      "url": "products",
+      "name": "Products",
+      "icon": "shopping-cart",
+      "slug": "products"
+    },
+    {
+      "url": "management",
+      "name": "Management",
+      "icon": "settings",
+      "slug": "management"
+    }
+  ]
+}
